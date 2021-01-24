@@ -4,9 +4,9 @@
 
 #### [ABOUT ME](http://sunxysharma.github.io)
 
-## I'm a esports player, musician, and Developer.
+## I'm musician, and Developer.
 
-- 🔭 I’m currently working on a Vs-Code.
+- 🔭 I’m currently working on a .
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
