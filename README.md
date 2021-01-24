@@ -1,8 +1,8 @@
 
 
-### Hi there, I'm Sunny Sharma - aka [burnjet](https://burnjet.com/about){:target="_blank"} 👋
+### Hi there, I'm Sunny Sharma - aka [burnjet](https://burnjet.com/about) 👋
 
-#### [ABOUT ME](http://sunxysharma.github.io){:target="_blank"}
+#### [ABOUT ME](http://sunxysharma.github.io)
 
 ## I'm a esports player, musician, and Developer.
 
@@ -17,11 +17,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="burnjet.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]{:target="_blank"}
-[<img align="left" alt="burnjet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]{:target="_blank"}
-[<img align="left" alt="burnjet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]{:target="_blank"}
-[<img align="left" alt="burnjet | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]{:target="_blank"}
-[<img align="left" alt="burnjet | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]{:target="_blank"}
+[<img align="left" alt="burnjet.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="burnjet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="burnjet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="burnjet | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="burnjet | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
 ### Languages and Tools:
