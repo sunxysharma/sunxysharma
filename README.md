@@ -6,7 +6,7 @@
 
 ## I'm musician, and Developer.
 
-- 🔭 I’m currently working on a .
+- 🔭 I’m currently working on javascript.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
