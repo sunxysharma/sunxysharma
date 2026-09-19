@@ -1,49 +1,45 @@
+### Hi, I'm Sunny Sharma 👋
 
+Musician and developer — I build small, useful things for the web, and I'm probably playing guitar when I'm not coding.
 
-### Hi there, I'm Sunny Sharma - aka [burnjet](https://burnjet.com/about) 👋
+**What I'm building:**
+- 🔧 [**Burnjet**](https://burnjet.com) — a free, client-side toolbox of calculators, utilities, and a resume builder. 155+ tools and counting, no signups, no bloat.
+- 📅 [**PostyForge**](https://postyforge.com) — content scheduling for creators, brands, and agencies across Instagram, Facebook, LinkedIn, and X. Real device previews and proper per-platform formatting, not generic cross-posting.
 
-#### [ABOUT ME](http://sunxysharma.github.io)
+- 🌱 Currently learning a bit of everything, as usual
+- 👯 Open to collaborating with other creators and indie builders
+- 🥅 2026 goal: grow both projects sustainably without losing the "it just works" feel
+- ⚡ When I'm not building: guitar, and [traveling](https://www.youtube.com/watch?v=IZL_Nff-tXc)
 
-## I'm musician, and Developer.
+---
 
-- 🔭 I’m currently working on javascript.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar and [travel](https://www.youtube.com/watch?v=IZL_Nff-tXc) 
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sunny Sharma Spotify Playing" width="350" />](https://open.spotify.com/playlist/6EdITp4Ii6bOEpLccungLm)
-
-### Connect with me:
-
+### Connect
 [<img align="left" alt="burnjet.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="burnjet | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="burnjet | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="burnjet | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="burnjet | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br />
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<br /><br />
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### Tech I use
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<br />
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<br /><br />
 
-<br />
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=sunxysharma&show_icons=true&theme=default&hide_title=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunxysharma" height="160"/>
 
 ---
-
 
 [website]: https://burnjet.com/about
 [instagram]: https://instagram.com/mr.sunnysharma
