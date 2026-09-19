@@ -8,7 +8,7 @@ Musician and developer — I build small, useful things for the web, and I'm pro
 
 - 🌱 Currently learning a bit of everything, as usual
 - 👯 Open to collaborating with other creators and indie builders
-- 🥅 2026 goal: grow both projects sustainably without losing the "it just works" feel
+- 🥅 Goal: grow both projects sustainably without losing the "it just works" feel
 - ⚡ When I'm not building: guitar, and [traveling](https://www.youtube.com/watch?v=IZL_Nff-tXc)
 
 ---
@@ -35,9 +35,6 @@ Musician and developer — I build small, useful things for the web, and I'm pro
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <br /><br />
-
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sunxysharma&show_icons=true&theme=default&hide_title=true" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunxysharma" height="160"/>
 
 ---
 
