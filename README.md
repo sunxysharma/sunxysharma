@@ -4,7 +4,7 @@ Musician and developer — I build small, useful things for the web, and I'm pro
 
 **What I'm building:**
 - 🔧 [**Burnjet**](https://burnjet.com) — a free, client-side toolbox of calculators, utilities, and a resume builder. 155+ tools and counting, no signups, no bloat.
-- 📅 [**PostyForge**](https://postyforge.com) — content scheduling for creators, brands, and agencies across Instagram, Facebook, LinkedIn, and X. Real device previews and proper per-platform formatting, not generic cross-posting.
+
 
 - 🌱 Currently learning a bit of everything, as usual
 - 👯 Open to collaborating with other creators and indie builders
